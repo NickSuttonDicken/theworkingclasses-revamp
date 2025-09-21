@@ -1,15 +1,15 @@
 {
     "type": "code",
-    "modid": "theworkingclasses",
-    "name": "The Working Classes",
+    "modid": "theworkingclassesrevamp",
+    "name": "The Working Classes Revamp",
     "authors": [
-        "Vivi_IX"
+        "Vivi_IX",
+        "Frozti"
     ],
     "description": "Adds profession based classes to Vintage story. Pick a profession and work alongside your fellows, or take on the world alone in a new way",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "dependencies": {
         "game": "",
-        "traitacquirer": "0.9.6",
         "em": "3.0.0"
     }
 }

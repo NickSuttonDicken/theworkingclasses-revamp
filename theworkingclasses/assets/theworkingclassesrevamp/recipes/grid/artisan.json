@@ -1,0 +1,1837 @@
+[
+  {
+    "ingredientPattern": "BDH,VDD,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-metal-nickel"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-ashforest",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDH,VDD,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-magnetite*"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-loam",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDH,VMM,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-metal-nickel"
+      },
+      "M": {
+        "type": "item",
+        "code": "em:powdered-ore-magnetite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-chthonic",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDH,VDD,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-litharge"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-copper",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDH,VDD,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-stone-bauxite"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-volcanic",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDH,VDD,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-magnetite"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-rime",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BTH,VDD,GMH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "T": {
+        "type": "item",
+        "code": "em:powdered-metal-nickel"
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      },
+      "M": {
+        "type": "item",
+        "code": "em:powdered-ore-hematite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-stone-chert"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-oxblood",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDH,VDD,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-chromiumoxide"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-undergrowth",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDH,VDD,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-magnetite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-massicot"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-beehive",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDD,VHH,GDD",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-metal-nickel"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-rutile",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDD,VHH,GDD",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-chromiumoxide"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-rhodochrosite"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-springflowers",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BTH,VDD,GMH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "T": {
+        "type": "item",
+        "code": "em:powdered-ore-hematite"
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      },
+      "M": {
+        "type": "item",
+        "code": "em:powdered-ore-magnetite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-earthen",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDH,VDD,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-zincoxide"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-rain",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDH,VDD,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-zincoxide"
+      },
+      "M": {
+        "type": "item",
+        "code": "em:powdered-ore-litharge"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-cowrie",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDH,VDD,GMH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-chromiumoxide"
+      },
+      "M": {
+        "type": "item",
+        "code": "em:powdered-stone-bauxite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-harvest",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDH,VDM,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-chromiumoxide"
+      },
+      "M": {
+        "type": "item",
+        "code": "em:powdered-ore-massicot"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-honeydew",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "BDH,VDD,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:storagevessel-{type}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-zincoxide"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-chromiumoxide"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 4,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedstoragevessel-seasalt",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B__,VDM,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-massicot"
+      },
+      "M": {
+        "type": "item",
+        "code": "em:powdered-ore-zincoxide"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedplanter-ochre",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B__,VDM,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-metal-nickel"
+      },
+      "M": {
+        "type": "item",
+        "code": "em:powdered-ore-magnetite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedplanter-cthonic",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B__,VDH,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-magnetite*"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedplanter-loam",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B__,VDH,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-litharge"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedplanter-copper",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B__,VDH,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-metal-nickel"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedplanter-ashforest",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B__,VDH,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-magnetite"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedplanter-rime",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B__,VDM,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      },
+      "M": {
+        "type": "item",
+        "code": "em:powdered-ore-magnetite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedplanter-earthern",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B__,VDH,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-chromiumoxide"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedplanter-undergrowth",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B__,VDD,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-litharge"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedplanter-amber",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B__,VDD,GHH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-zincoxide"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-chromiumoxide"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedplanter-seasalt",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B__,VDM,GDH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-zincoxide"
+      },
+      "M": {
+        "type": "item",
+        "code": "em:powdered-ore-litharge"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedplanter-tenmoku",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B_,VD,GH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-massicot"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-zincoxide"
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedflowerpot-ochre",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B_,VD,GH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-zincoxide"
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedflowerpot-boneash",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B_,VD,GH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-litharge"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedflowerpot-copper",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B_,VD,GH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-magnetite"
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedflowerpot-celadon",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B_,VD,GH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedflowerpot-earthern",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B_,VD,GH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-chromiumoxide"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedflowerpot-moss",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B_,VD,GH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-litharge"
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedflowerpot-amber",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B_,VD,GH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-cassiterite"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-nickel"
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedflowerpot-rutile",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B_,VD,GH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-zincoxide"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-ore-chromiumoxide"
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedflowerpot-seasalt",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "B_,VD,GH",
+    "requiresTrait": "artisan",
+    "ingredients": {
+      "B": {
+        "type": "block",
+        "code": "game:woodbucket"
+      },
+      "V": {
+        "type": "block",
+        "code": "game:clayplanter-{color}-raw"
+      },
+      "G": {
+        "type": "item",
+        "code": "em:powdered-ore-*",
+        "name": "ore",
+        "allowedVariants": [ "whitelead", "zincoxide" ]
+      },
+      "D": {
+        "type": "item",
+        "code": "em:powdered-ore-zincoxide"
+      },
+      "H": {
+        "type": "item",
+        "code": "em:powdered-metal-rusty"
+      }
+    },
+    "width": 2,
+    "height": 3,
+    "recipeGroup": 2,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": {
+          "type": "item",
+          "code": "game:waterportion"
+        },
+        "requiresLitres": 2,
+        "consumeContainer": false
+      }
+    },
+    "shapeless": false,
+    "output": {
+      "type": "block",
+      "code": "theworkingclassesrevamp:rawdecoratedflowerpot-tenmoku",
+      "quantity": 1
+    }
+  }
+
+]

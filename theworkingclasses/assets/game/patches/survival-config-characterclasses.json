@@ -108,11 +108,11 @@
             "gear": [
                 {
                     "type": "item",
-                    "code": "theworkingclasses:clothes-upperbody-lumberjack-shirt"
+                    "code": "theworkingclassesrevamp:clothes-upperbody-lumberjack-shirt"
                 },
                 {
                     "type": "item",
-                    "code": "theworkingclasses:clothes-lowerbody-lumberjack-pants-fancy"
+                    "code": "theworkingclassesrevamp:clothes-lowerbody-lumberjack-pants-fancy"
                 },
                 {
                     "type": "item",
@@ -166,7 +166,7 @@
                 },
                 {
                     "type": "item",
-                    "code": "theworkingclasses:clothes-face-welding-mask"
+                    "code": "theworkingclassesrevamp:clothes-face-welding-mask"
                 },
                 {
                     "type": "item",

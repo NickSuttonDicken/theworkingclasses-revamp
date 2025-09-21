@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <OutputPath>bin\$(Configuration)\Mods\mod</OutputPath>
   </PropertyGroup>
@@ -75,18 +75,18 @@
 </ItemGroup>
 
 <ItemGroup>
-  <Folder Include="assets\theworkingclasses\patches\items\" />
-  <Folder Include="assets\theworkingclasses\recipes\cooking\" />
-  <Folder Include="assets\theworkingclasses\shapes\block\clay\flowerpot\" />
-  <Folder Include="assets\theworkingclasses\shapes\block\clay\storagevessel\" />
-  <Folder Include="assets\theworkingclasses\shapes\block\clay\planter\" />
-  <Folder Include="assets\theworkingclasses\textures\block\clay\flowerpot\" />
-  <Folder Include="assets\theworkingclasses\textures\block\clay\planter\" />
-  <Folder Include="assets\theworkingclasses\textures\block\clay\vessel\inside\" />
-  <Folder Include="assets\theworkingclasses\textures\block\clay\vessel\top\" />
-  <Folder Include="assets\theworkingclasses\textures\block\soil\peatpile\" />
-  <Folder Include="assets\theworkingclasses\textures\block\wood\planks\aged\" />
-  <Folder Include="assets\theworkingclasses\textures\item\" />
+  <Folder Include="assets\theworkingclassesrevamp\patches\items\" />
+  <Folder Include="assets\theworkingclassesrevamp\recipes\cooking\" />
+  <Folder Include="assets\theworkingclassesrevamp\shapes\block\clay\flowerpot\" />
+  <Folder Include="assets\theworkingclassesrevamp\shapes\block\clay\storagevessel\" />
+  <Folder Include="assets\theworkingclassesrevamp\shapes\block\clay\planter\" />
+  <Folder Include="assets\theworkingclassesrevamp\textures\block\clay\flowerpot\" />
+  <Folder Include="assets\theworkingclassesrevamp\textures\block\clay\planter\" />
+  <Folder Include="assets\theworkingclassesrevamp\textures\block\clay\vessel\inside\" />
+  <Folder Include="assets\theworkingclassesrevamp\textures\block\clay\vessel\top\" />
+  <Folder Include="assets\theworkingclassesrevamp\textures\block\soil\peatpile\" />
+  <Folder Include="assets\theworkingclassesrevamp\textures\block\wood\planks\aged\" />
+  <Folder Include="assets\theworkingclassesrevamp\textures\item\" />
 </ItemGroup>
 
 <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>

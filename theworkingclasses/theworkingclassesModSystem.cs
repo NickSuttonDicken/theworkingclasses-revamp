@@ -17,12 +17,12 @@ namespace theworkingclasses
 
         public override void StartServerSide(ICoreServerAPI api)
         {
-            api.Logger.Notification("Hello from template mod server side: " + Lang.Get("theworkingclasses:hello"));
+            api.Logger.Notification("Hello from template mod server side: " + Lang.Get("theworkingclassesrevamp:hello"));
         }
 
         public override void StartClientSide(ICoreClientAPI api)
         {
-            api.Logger.Notification("Hello from template mod client side: " + Lang.Get("theworkingclasses:hello"));
+            api.Logger.Notification("Hello from template mod client side: " + Lang.Get("theworkingclassesrevamp:hello"));
         }
 
     }

@@ -4,7 +4,7 @@
     "path": "/attributes/buildMats/fuel/6",
     "value": {
       "type": "block",
-      "code": "theworkingclasses:rottenpeat-dry",
+      "code": "theworkingclassesrevamp:rottenpeat-dry",
       "quantity": 1,
       "eleCode": "Coal",
       "textureCodeReplace": {
@@ -21,7 +21,7 @@
     "path": "/attributes/buildMats/fuel/7",
     "value": {
       "type": "item",
-      "code": "theworkingclasses:washerygradecoke",
+      "code": "theworkingclassesrevamp:washerygradecoke",
       "quantity": 1,
       "eleCode": "Coal",
       "textureCodeReplace": {
@@ -38,7 +38,7 @@
     "path": "/attributes/buildMats/fuel/8",
     "value": {
       "type": "item",
-      "code": "theworkingclasses:crushedwasherygradecoke",
+      "code": "theworkingclassesrevamp:crushedwasherygradecoke",
       "quantity": 1,
       "eleCode": "Coal",
       "textureCodeReplace": {
@@ -52,7 +52,7 @@
   },
   {
     "op": "add",
-    "path": "/attributes/modelConfigs/theworkingclasses:rawdecoratedstoragevessel-*",
+    "path": "/attributes/modelConfigs/theworkingclassesrevamp:rawdecoratedstoragevessel-*",
     "value": {
       "shape": {
         "base": "block/wood/pitkiln/vessel"
